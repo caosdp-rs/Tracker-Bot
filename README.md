@@ -3,6 +3,8 @@
 
 ![FUTBIN Player Page](/PlayerImage.png)
 
+![Email Screenshot](/Email.png)
+
 
 ### Author
 *Renadh Chowdhury*
