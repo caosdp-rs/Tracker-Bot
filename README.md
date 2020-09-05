@@ -12,5 +12,5 @@ FUTBIN Player Page
 ### Author
 *Renadh Chowdhury*
 
-### Acknowledgements
+### Acknowledgement
 - [FUTBIN](https://www.futbin.com/)
